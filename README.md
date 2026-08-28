@@ -1,4 +1,4 @@
-<p align="center">Full-Stack Developer · AI Engineer</p>
+<p align="center">Full Stack AI Developer</p>
 
 <h1 align="center">Shameer Shahzad</h1>
 
