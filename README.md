@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1C3C3C&height=150&text=Shameer%20Shahzad&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Automation%20%C2%B7%20Full%20Stack%20AI%20Developer&descAlign=50&descAlignY=62&descSize=15&descColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:7C3AED&height=150&text=Shameer%20Shahzad&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Automation%20%C2%B7%20Full%20Stack%20AI%20Developer&descAlign=50&descAlignY=62&descSize=15&descColor=ffffff" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Currently building Sentra Security Platform as my Final Year Project, and open to AI/ML or Full Stack AI Developer opportunities.
+  Currently building Sentra Security Platform as my Final Year Project, and open to paid AI/ML or Full Stack AI Developer opportunities.
 </p>
 
 <p align="center">
