@@ -1,6 +1,8 @@
-<p align="center">Full Stack AI Developer</p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1C3C3C&height=140&text=Shameer%20Shahzad&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20AI%20Developer&descAlign=50&descAlignY=65&descSize=18&descColor=ffffff" />
+</p>
 
-<h1 align="center">Shameer Shahzad</h1>
+<h3 align="center">AI/ML Engineer · Automation</h3>
 
 <p align="center">
   Building intelligent, production-ready applications across the MERN stack and modern AI/LLM tooling.
@@ -8,11 +10,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shameer-shahzad-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shameershazad156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/shameershahzad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shameershahzad&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
