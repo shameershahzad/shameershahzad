@@ -1,5 +1,6 @@
+<p align="center">Full-Stack Developer · AI Engineer</p>
+
 <h1 align="center">Shameer Shahzad</h1>
-<h3 align="center">AI/ML Engineer · Automation · Full-Stack Developer</h3>
 
 <p align="center">
   Building intelligent, production-ready applications across the MERN stack and modern AI/LLM tooling.
@@ -68,5 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shameershahzad&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shameershahzad&hide_border=true" />
 </p>
