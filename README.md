@@ -41,7 +41,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-4B0082?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjQiIGN5PSI2IiByPSIyLjIiLz48Y2lyY2xlIGN4PSI0IiBjeT0iMTgiIHI9IjIuMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIuMiIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iNiIgcj0iMi4yIi8%2BPGNpcmNsZSBjeD0iMjAiIGN5PSIxOCIgcj0iMi4yIi8%2BPGxpbmUgeDE9IjQiIHkxPSI2IiB4Mj0iMTIiIHkyPSIxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiLz48bGluZSB4MT0iNCIgeTE9IjE4IiB4Mj0iMTIiIHkyPSIxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiLz48bGluZSB4MT0iMTIiIHkxPSIxMiIgeDI9IjIwIiB5Mj0iNiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiLz48bGluZSB4MT0iMTIiIHkxPSIxMiIgeDI9IjIwIiB5Mj0iMTgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS42Ii8%2BPC9zdmc%2B
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-4B0082?style=flat-square)
 
 **Generative AI**
 
@@ -57,7 +57,7 @@
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-6A0DAD?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjQiIHk9IjgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxMSIgcng9IjIiLz48cmVjdCB4PSIxMCIgeT0iMyIgd2lkdGg9IjQiIGhlaWdodD0iNCIgcng9IjEiLz48cmVjdCB4PSIxIiB5PSIxMSIgd2lkdGg9IjIiIGhlaWdodD0iNSIgcng9IjEiLz48cmVjdCB4PSIyMSIgeT0iMTEiIHdpZHRoPSIyIiBoZWlnaHQ9IjUiIHJ4PSIxIi8%2BPC9zdmc%2B
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6A0DAD?style=flat-square)
 
 **Tools**
 
