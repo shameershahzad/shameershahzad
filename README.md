@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  Currently building Sentra Security Platform as my Final Year Project, and open to AI/ML or Full Stack internship opportunities.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shameer-shahzad-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shameershazad156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/shameershahzad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -28,8 +32,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-338833?style=flat-square)
 
 **Machine Learning**
 
@@ -57,6 +63,7 @@
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -65,12 +72,12 @@
 
 ### Featured Projects
 
-| Project | Description |
-|---|---|
-| **Sentra Security Platform** *(Final Year Project · MVP)* | Agentic AI platform for offline secure code review and remediation: runs static analysis, then uses a locally hosted LLM (Gemma via Ollama, orchestrated with LangChain/LangGraph) to explain vulnerabilities, generate fixes, and open pull requests, with full CI/CD integration and zero code leaving the machine. |
-| **Teacher-Management-System** | Full-stack MERN dashboard for teachers to manage classes, students, and attendance. |
-| **AI_Content_Generator** | FastAPI + LangChain + Gemini app that generates content from a topic prompt. |
-| **Notes_App** | MERN note-taking app with JWT auth and a secure password-reset flow. |
+| Project | Description | Live Demo |
+|---|---|---|
+| **Sentra Security Platform** *(Final Year Project · MVP)* | Agentic AI platform for offline secure code review and remediation: runs static analysis, then uses a locally hosted LLM (Gemma via Ollama, orchestrated with LangChain/LangGraph) to explain vulnerabilities, generate fixes, and open pull requests, with full CI/CD integration and zero code leaving the machine. | — |
+| **Teacher-Management-System** | Full-stack MERN dashboard for teachers to manage classes, students, and attendance. | — |
+| **AI_Content_Generator** | FastAPI + LangChain + Gemini app that generates content from a topic prompt. | — |
+| **Notes_App** | MERN note-taking app with JWT auth and a secure password-reset flow. | [Visit](https://full-stack-notes-application.netlify.app) |
 
 ---
 
