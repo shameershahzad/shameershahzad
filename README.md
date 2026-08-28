@@ -59,33 +59,19 @@
 
 ### Experience
 
-| | |
-|:---|---:|
-| **AI/ML Engineer Intern** · Ebryx (Pvt) Ltd | *Oct 2025 – Present* |
-
+**AI/ML Engineer Intern · Ebryx (Pvt) Ltd**
+*Oct 2025 – Present*
 - Built GenAI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
 - Trained ML models (CNN, LSTM) for end-to-end AI solutions
 
-| | |
-|:---|---:|
-| **MERN Stack Developer Intern** · Ebryx (Pvt) Ltd | *July 2024 – Feb 2025* |
-
+**MERN Stack Developer Intern · Ebryx (Pvt) Ltd**
+*July 2024 – Feb 2025*
 - Built responsive UIs and integrated REST APIs for product listings, order flow, and admin panel during full-stack internship training
 
 ---
 
 ### Education
 
-| | |
-|:---|---:|
-| **BS Computer Science** · NUML University, Lahore | *Sep 2023 – June 2027 (Final Year)* |
-
+**BS Computer Science · NUML University, Lahore**
+*Sep 2023 – June 2027 (Final Year)*
 - Coursework and projects centered on software engineering, data structures & algorithms, and full-stack web development
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shameershahzad&hide_border=true&cache_bust=1" />
-</p>
