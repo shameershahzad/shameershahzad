@@ -97,3 +97,10 @@
 **BS Computer Science · NUML University, Lahore**
 *Sep 2023 – June 2027 (Final Year)*
 - Coursework and projects centered on software engineering, data structures & algorithms, and full-stack web development
+
+---
+
+### Certifications & Achievements
+
+- **Machine Learning Competition · SOFTEC'26** *(FAST-NUCES)*
+  - Certificate of Participation for competing in the Machine Learning Competition at SOFTEC'26
