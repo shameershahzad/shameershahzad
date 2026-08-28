@@ -103,11 +103,11 @@
 
 ### Certifications & Achievements
 
+- **HackForge 3.0 · 2026** *(NUML, Lahore)*
+  - Built Code Royale, a real-time multiplayer browser game where player-written code controls bots battling in an arena (Socket.io, Canvas, sandboxed execution); secured 3rd Position
+
 - **Machine Learning Competition · SOFTEC'26** *(FAST-NUCES)*
   - Certificate of Participation for competing in the Machine Learning Competition at SOFTEC'26
 
 - **HackForge 2.0 · 2025** *(NUML, Lahore)*
   - Built an event registration platform using the MERN stack; secured 3rd Position
-
-- **HackForge 3.0** *(NUML, Lahore)*
-  - Secured 3rd Position in the MERN Stack track
