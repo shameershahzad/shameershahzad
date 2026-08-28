@@ -105,3 +105,9 @@
 
 - **Machine Learning Competition · SOFTEC'26** *(FAST-NUCES)*
   - Certificate of Participation for competing in the Machine Learning Competition at SOFTEC'26
+
+- **HackForge 2.0** *(MERN Stack)*
+  - Secured 3rd Position
+
+- **HackForge 3.0** *(MERN Stack)*
+  - Secured 3rd Position
