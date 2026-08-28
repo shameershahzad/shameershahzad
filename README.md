@@ -40,7 +40,6 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Semgrep](https://img.shields.io/badge/Semgrep-4B32C3?style=flat-square&logo=semgrep&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 **Automation**
@@ -61,7 +60,7 @@
 
 | Project | Description |
 |---|---|
-| **Sentra Security Platform** *(Private — Final Year Project)* | Agentic AI platform for offline secure code review and remediation: runs Semgrep static analysis, then uses a locally hosted LLM (Gemma via Ollama, orchestrated with LangChain/LangGraph) to explain vulnerabilities, generate fixes, and open pull requests — with full CI/CD integration and zero code leaving the machine. |
+| **Sentra Security Platform** *(Final Year Project · MVP)* | Agentic AI platform for offline secure code review and remediation: runs static analysis, then uses a locally hosted LLM (Gemma via Ollama, orchestrated with LangChain/LangGraph) to explain vulnerabilities, generate fixes, and open pull requests, with full CI/CD integration and zero code leaving the machine. |
 | **Teacher-Management-System** | Full-stack MERN dashboard for teachers to manage classes, students, and attendance. |
 | **AI_Content_Generator** | FastAPI + LangChain + Gemini app that generates content from a topic prompt. |
 | **Notes_App** | MERN note-taking app with JWT auth and a secure password-reset flow. |
