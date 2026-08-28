@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Currently building Sentra Security Platform as my Final Year Project, and open to AI/ML or Full Stack internship opportunities.
+  Currently building Sentra Security Platform as my Final Year Project, and open to paid AI/ML or Full Stack AI Developer opportunities.
 </p>
 
 <p align="center">
