@@ -84,7 +84,8 @@
 
 - **AI/ML Engineer Intern · Ebryx (Pvt) Ltd** — *Oct 2025 – Present*
   - Built agentic AI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
-  - Trained ML models (CNN, LSTM) for end-to-end AI solutions
+  - Applied supervised and unsupervised machine learning techniques for various AI/ML tasks
+  - Trained deep learning models (CNN, LSTM) for end-to-end AI solutions
 
 - **MERN Stack Developer Intern · Ebryx (Pvt) Ltd** — *July 2024 – Feb 2025*
   - Built responsive UI components using React for product listings and order flow features
