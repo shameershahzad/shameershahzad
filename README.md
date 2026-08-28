@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Building intelligent, production-ready applications across the MERN stack and modern AI/LLM tooling.
+  Full Stack AI Developer building end-to-end applications that combine modern web development with AI/ML and automation.
 </p>
 
 <p align="center">
@@ -57,8 +57,26 @@
 
 ---
 
+### Experience
+
+**Ebryx (Pvt) Ltd** — AI/ML Engineer Intern &nbsp;&nbsp;·&nbsp;&nbsp; *Oct 2025 – Present*
+- Built GenAI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
+- Trained ML models (CNN, LSTM) for end-to-end AI solutions
+
+**Ebryx (Pvt) Ltd** — MERN Stack Developer Intern &nbsp;&nbsp;·&nbsp;&nbsp; *July 2024 – Feb 2025*
+- Built responsive UIs and integrated REST APIs for product listings, order flow, and admin panel during full-stack internship training
+
+---
+
+### Education
+
+**NUML University, Lahore** — BS Computer Science &nbsp;&nbsp;·&nbsp;&nbsp; *Sep 2023 – June 2027 (Final Year)*
+- Focused on software development, data structures, and web technologies
+
+---
+
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shameershahzad&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shameershahzad&hide_border=true&cache_bust=1" />
 </p>
