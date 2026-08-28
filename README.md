@@ -30,13 +30,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**AI / ML / Automation**
+**AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 **Tools**
 
@@ -59,14 +64,13 @@
 
 ### Experience
 
-**AI/ML Engineer Intern · Ebryx (Pvt) Ltd**
-*Oct 2025 – Present*
-- Built GenAI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
-- Trained ML models (CNN, LSTM) for end-to-end AI solutions
+- **AI/ML Engineer Intern · Ebryx (Pvt) Ltd** — *Oct 2025 – Present*
+  - Built GenAI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
+  - Trained ML models (CNN, LSTM) for end-to-end AI solutions
 
-**MERN Stack Developer Intern · Ebryx (Pvt) Ltd**
-*July 2024 – Feb 2025*
-- Built responsive UIs and integrated REST APIs for product listings, order flow, and admin panel during full-stack internship training
+- **MERN Stack Developer Intern · Ebryx (Pvt) Ltd** — *July 2024 – Feb 2025*
+  - Built responsive UI components using React for product listings and order flow features
+  - Integrated REST APIs and built an admin panel during full-stack internship training
 
 ---
 
