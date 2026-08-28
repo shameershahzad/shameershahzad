@@ -57,6 +57,7 @@
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6A0DAD?style=flat-square)
 
 **Tools**
 
@@ -82,7 +83,7 @@
 ### Experience
 
 - **AI/ML Engineer Intern · Ebryx (Pvt) Ltd** — *Oct 2025 – Present*
-  - Built GenAI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
+  - Built agentic AI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
   - Trained ML models (CNN, LSTM) for end-to-end AI solutions
 
 - **MERN Stack Developer Intern · Ebryx (Pvt) Ltd** — *July 2024 – Feb 2025*
