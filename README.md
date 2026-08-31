@@ -100,18 +100,11 @@
 
 | Project | Description |
 |---|---|
-| **Sentra Security Platform** *(Final Year Project · MVP)* | Agentic AI platform for offline secure code review and remediation: runs static analysis, then uses a locally hosted LLM (Gemma via Ollama, orchestrated with LangChain/LangGraph) to explain vulnerabilities, generate fixes, and open pull requests, with full CI/CD integration and zero code leaving the machine. |
+| **Sentra Security Platform** *(Final Year Project · MVP)* | Agentic AI platform for offline secure code review, built for the vibe-coding era. Scans code, uses a local LLM (Gemma via Ollama + LangGraph) to explain and fix vulnerabilities, then opens real GitHub PRs, from a web dashboard or inline in VS Code. No code ever leaves your machine. |
 | **Teacher-Personal-Dashboard** | Full-stack MERN dashboard for teachers to manage classes, students,timetable, and attendance. |
 | **AI_Content_Generator** | FastAPI + LangChain + Gemini app that generates content from a topic prompt. |
 | **Notes_App** | MERN note-taking app with JWT auth and a secure password-reset flow. |
-
----
-
-### Deployment
-
-- **Teacher-Personal-Dashboard** — [Live Site](https://teacher-personal-dashboard.netlify.app)
-- **AI_Content_Generator** — [Live Site](https://ai-content-generator-app-live.netlify.app)
-- **Notes_App** — [Live Site](https://full-stack-notes-application.netlify.app)
+| **Speech-Translator** | Real-time speech translation app: speak in any language, get translated text and a spoken translation back (FastAPI + React). |
 
 ---
 
@@ -146,3 +139,12 @@
 
 - **HackForge 2.0 · 2025** *(NUML, Lahore)*
   - Built an event registration platform using the MERN stack; secured 3rd Position
+
+---
+
+### Deployment
+
+- **Teacher-Personal-Dashboard** [Live Site](https://teacher-personal-dashboard.netlify.app)
+- **AI_Content_Generator** [Live Site](https://ai-content-generator-app-live.netlify.app)
+- **Notes_App** [Live Site](https://full-stack-notes-application.netlify.app)
+- **Speech-Translator** [Live Site](https://speech-translator-eta-app.netlify.app)
