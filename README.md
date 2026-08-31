@@ -100,7 +100,7 @@
 
 | Project | Description |
 |---|---|
-| **Sentra Security Platform** *(Final Year Project · MVP)* | Agentic AI platform for offline secure code review and remediation: runs static analysis, then uses a locally hosted LLM (Gemma via Ollama, orchestrated with LangChain/LangGraph) to explain vulnerabilities, generate fixes, and open pull requests, with full CI/CD integration and zero code leaving the machine. |
+| **Sentra Security Platform** *(Final Year Project · MVP)* | Agentic AI platform for offline secure code review: a dashboard for project-wide analysis of vibe-coded and other codebases, plus a VS Code interface for single-file scans with inline accept/reject/explain fixes. Locally hosted LLM (Gemma via Ollama, LangChain/LangGraph), full CI/CD integration, zero code leaving the machine. |
 | **Teacher-Personal-Dashboard** | Full-stack MERN dashboard for teachers to manage classes, students,timetable, and attendance. |
 | **AI_Content_Generator** | FastAPI + LangChain + Gemini app that generates content from a topic prompt. |
 | **Notes_App** | MERN note-taking app with JWT auth and a secure password-reset flow. |
