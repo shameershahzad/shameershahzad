@@ -116,7 +116,7 @@
   - Working on backend systems and AI-driven tooling using Python, FastAPI, and PostgreSQL
   - Contributing to agentic AI infrastructure supporting internal automation and workflows
 
-- **AI/ML Engineer Intern · Ebryx (Pvt) Ltd** - *Oct 2025 – Sep 2026*
+- **AI/ML Engineer Intern · Ebryx (Pvt) Ltd** - *Oct 2025 – Present*
   - Built agentic AI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
   - Applied supervised and unsupervised machine learning techniques for various AI/ML tasks
   - Trained deep learning models (CNN, LSTM) for end-to-end AI solutions
