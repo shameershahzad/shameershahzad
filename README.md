@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Currently building Sentra Security Platform as my Final Year Project, and open to AI/ML or Full Stack AI Developer opportunities.
+  Python Backend & AI Developer at Gobind Trades, building AI-driven backend systems. Also working on Sentra Security Platform as my Final Year Project.
 </p>
 
 <p align="center">
@@ -111,6 +111,10 @@
 ---
 
 ### Experience
+
+- **Python Backend & Hermes AI Developer · Gobind Trades** - *Sep 2026 – Present*
+  - Working on backend systems and AI-driven tooling using Python, FastAPI, and PostgreSQL
+  - Contributing to agentic AI infrastructure supporting internal automation and workflows
 
 - **AI/ML Engineer Intern · Ebryx (Pvt) Ltd** - *Oct 2025 – Present*
   - Built agentic AI workflows and automation pipelines using n8n, Zapier, LangChain, and Llama 3.2 via FastAPI
