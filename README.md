@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Python Backend & AI Developer at Gobind Trades, building AI-driven backend systems. Also working on Sentra Security Platform as my Final Year Project.
+  Backend & AI Developer at Gobind Trades, building AI-driven backend systems. Also working on Sentra Security Platform as my Final Year Project.
 </p>
 
 <p align="center">
